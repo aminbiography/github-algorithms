@@ -3,7 +3,6 @@
 
 https://www.youtube.com/GitHub
 
-
 <h1>Essential GitHub Commands</h1>
 
 ```
