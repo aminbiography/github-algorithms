@@ -2,10 +2,13 @@
 
 https://www.youtube.com/GitHub
 
-<h1>Create a new repository on the command lines</h1>
+<h1>Create a new repository using the command lines</h1>
 
 ```
-echo "# html5-css3-fundamentals" >> index.html
+cd /path/to/your/folder
+```
+```
+echo "# html5-css3-fundamentals" >> index.html             \\\ Optional 
 ```
 ```
 git init
@@ -20,7 +23,7 @@ git commit -m "first commit"
 git branch -M main
 ```
 ```
-git remote add origin https://github.com/aminbiography/html5-css3-fundamentals.git
+git remote add origin https://github.com/username/repository-name.git
 ```
 ```
 git push -u origin main
