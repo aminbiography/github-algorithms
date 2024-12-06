@@ -28,6 +28,35 @@ git remote add origin https://github.com/username/repository-name.git
 ```
 git push -u origin main
 ```
+<h1>Push an existing repository using the command lines</h1>
+
+```
+git init
+```
+```
+git add .
+```
+```
+git commit -m "Add existing project files to Git"
+```
+```
+git remote add origin https://github.com/username/repository-name.git
+```
+```
+git push -u
+```
+or
+```
+git pull
+```
+or
+```
+git push -v
+```
+or
+```
+-f origin master
+```
 
 <h1>Essential GitHub Commands</h1>
 
