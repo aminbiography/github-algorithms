@@ -10,11 +10,14 @@ echo "# html5-css3-fundamentals" >> index.html
 ```
 git init
 ```
-```git add .
 ```
-```git commit -m "first commit"
+git add .
 ```
-```git branch -M main
+```
+git commit -m "first commit"
+```
+```
+git branch -M main
 ```
 ```
 git remote add origin https://github.com/aminbiography/html5-css3-fundamentals.git
