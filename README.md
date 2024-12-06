@@ -1,7 +1,27 @@
 # github-algorithms in youtube
 
-
 https://www.youtube.com/GitHub
+
+<h1>Create a new repository on the command lines</h1>
+
+```
+echo "# html5-css3-fundamentals" >> index.html
+```
+```
+git init
+```
+```git add .
+```
+```git commit -m "first commit"
+```
+```git branch -M main
+```
+```
+git remote add origin https://github.com/aminbiography/html5-css3-fundamentals.git
+```
+```
+git push -u origin main
+```
 
 <h1>Essential GitHub Commands</h1>
 
