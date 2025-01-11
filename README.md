@@ -61,7 +61,8 @@
 ---
 
 ![Example Image](https://via.placeholder.com/150)
-[Learn More](https://example.com)```
+[Learn More](https://example.com)
+```
 
 
 # github-algorithms in youtube
