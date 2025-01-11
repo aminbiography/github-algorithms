@@ -30,7 +30,7 @@
 ![Example Image](https://via.placeholder.com/150)
 [Learn More](https://example.com)
 
-# GitHub README.md Markdown Nesting
+# GitHub README.md Markdown Nesting Inputs 
 
 ```
 ![Example Image](https://i.pinimg.com/736x/06/2a/e4/062ae4ca969aa0ec84af0823d3f99ed1.jpg)
