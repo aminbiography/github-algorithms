@@ -52,9 +52,6 @@
 
 **abcdefghijklmnopqrstuvwxyz**
 
-```
-               abcdefghijklmnopqrstuvwxyz 
-```
 ****abcdefghijklmnopqrstuvwxyz****
 ---
 #### abcdefghijklmnopqrstuvwxyz
