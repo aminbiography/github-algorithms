@@ -207,3 +207,4 @@ git update-index --assume-unchanged <file>              # Marks a file as unchan
 git update-index --no-assume-unchanged <file>           # Stops assuming a file is unchanged.
 git submodule add <repository_url> <path>               # Adds a new submodule to the repository.
 ```
+
