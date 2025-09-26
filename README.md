@@ -7,26 +7,31 @@
 # abcdefghijklmnopqrstuvwxyz
 
 ## abcdefghijklmnopqrstuvwxyz
-- abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** abcdefghijklmnopqrstuvwxyz.
+
+- abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** abcdefghijklmnopqrstuvwxyz.  
 - abcdefghijklmnopqrstuvwxyz:
   - abcdefghijklmnopqrstuvwxyz
   - abcdefghijklmnopqrstuvwxyz
   - abcdefghijklmnopqrstuvwxyz
 - abcdefghijklmnopqrstuvwxyz:
   - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** (e.g., abcdefghijklmnopqrstuvwxyz $a^2 + b^2 = c^2$)
-     - abcdefghijklmnopqrstuvwxyz
+    - abcdefghijklmnopqrstuvwxyz
   - Improving security monitoring
 
 **abcdefghijklmnopqrstuvwxyz**
 
 ****abcdefghijklmnopqrstuvwxyz****
+
 ---
+
 #### abcdefghijklmnopqrstuvwxyz
+
 ---
 
-Here’s an inline example: Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
+Here’s an inline example:  
+Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
 
-Here’s a block example:
+Here’s a block example:  
 
 ROI is calculated as:
 
@@ -36,34 +41,37 @@ $$
 
 ![Example Image](https://via.placeholder.com/150)  
 [Learn More](https://example.com)
-
-
-# GitHub README.md Markdown Nesting Inputs 
 
 ```
 # abcdefghijklmnopqrstuvwxyz
 
 ## abcdefghijklmnopqrstuvwxyz
-- abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** abcdefghijklmnopqrstuvwxyz.
+
+- abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** abcdefghijklmnopqrstuvwxyz.  
 - abcdefghijklmnopqrstuvwxyz:
   - abcdefghijklmnopqrstuvwxyz
   - abcdefghijklmnopqrstuvwxyz
   - abcdefghijklmnopqrstuvwxyz
 - abcdefghijklmnopqrstuvwxyz:
   - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** (e.g., abcdefghijklmnopqrstuvwxyz $a^2 + b^2 = c^2$)
-     - abcdefghijklmnopqrstuvwxyz
+    - abcdefghijklmnopqrstuvwxyz
   - Improving security monitoring
 
 **abcdefghijklmnopqrstuvwxyz**
 
 ****abcdefghijklmnopqrstuvwxyz****
+
 ---
+
 #### abcdefghijklmnopqrstuvwxyz
+
 ---
 
-Here’s an inline example: Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
+Here’s an inline example:  
+Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
 
-Here’s a block example:
+Here’s a block example:  
+
 ROI is calculated as:
 
 $$
@@ -74,7 +82,6 @@ $$
 [Learn More](https://example.com)
 
 ```
-
 
 # github-algorithms in youtube
 
