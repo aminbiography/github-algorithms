@@ -42,7 +42,7 @@
   - abcdefghijklmnopqrstuvwxyz
   - abcdefghijklmnopqrstuvwxyz
 - abcdefghijklmnopqrstuvwxyz:
-  - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** (e.g.,abcdefghijklmnopqrstuvwxyz)
+  - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** (e.g., abcdefghijklmnopqrstuvwxyz $a^2 + b^2 = c^2$)
      - abcdefghijklmnopqrstuvwxyz
   - Improving security monitoring
 
@@ -53,8 +53,17 @@
 #### abcdefghijklmnopqrstuvwxyz
 ---
 
-![Example Image](https://via.placeholder.com/150)
+Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $.
+
+Here’s a block example:
+
+$$
+E = mc^2
+$$
+
+![Example Image](https://via.placeholder.com/150)  
 [Learn More](https://example.com)
+
 ```
 
 
