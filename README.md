@@ -20,7 +20,7 @@
 
 **abcdefghijklmnopqrstuvwxyz**
 
-****abcdefghijklmnopqrstuvwxyz****
+**abcdefghijklmnopqrstuvwxyz**
 
 ---
 
@@ -29,9 +29,7 @@
 ---
 
 Here’s an inline example:  
-Cloud security efficiency is calculated as 
-
-$$ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $$.
+Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
 
 Here’s a block example:  
 
@@ -43,6 +41,7 @@ $$
 
 ![Example Image](https://via.placeholder.com/150)  
 [Learn More](https://example.com)
+
 
 ```
 # abcdefghijklmnopqrstuvwxyz
@@ -61,7 +60,7 @@ $$
 
 **abcdefghijklmnopqrstuvwxyz**
 
-****abcdefghijklmnopqrstuvwxyz****
+**abcdefghijklmnopqrstuvwxyz**
 
 ---
 
