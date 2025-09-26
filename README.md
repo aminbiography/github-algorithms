@@ -29,6 +29,7 @@ Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $
 Here’s a block example:
 
 ROI is calculated as:
+
 $$
 ROI = \frac{(Sales - Cost)}{Cost}
 $$
@@ -64,6 +65,7 @@ Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $
 
 Here’s a block example:
 ROI is calculated as:
+
 $$
 ROI = \frac{(Sales - Cost)}{Cost}
 $$
