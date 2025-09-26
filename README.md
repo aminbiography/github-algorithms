@@ -4,8 +4,8 @@
 ![Example Image](https://i.pinimg.com/736x/35/52/f4/3552f431827a8d12a6f5034285d25320.jpg)
 [Learn More](https://github.com/)
 
-# abcdefghijklmnopqrstuvwxyz   
-   
+# abcdefghijklmnopqrstuvwxyz
+
 ## abcdefghijklmnopqrstuvwxyz
 - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** abcdefghijklmnopqrstuvwxyz.
 - abcdefghijklmnopqrstuvwxyz:
@@ -13,22 +13,28 @@
   - abcdefghijklmnopqrstuvwxyz
   - abcdefghijklmnopqrstuvwxyz
 - abcdefghijklmnopqrstuvwxyz:
-  - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** (e.g.,abcdefghijklmnopqrstuvwxyz)
+  - abcdefghijklmnopqrstuvwxyz **abcdefghijklmnopqrstuvwxyz** (e.g., abcdefghijklmnopqrstuvwxyz $a^2 + b^2 = c^2$)
      - abcdefghijklmnopqrstuvwxyz
   - Improving security monitoring
 
 **abcdefghijklmnopqrstuvwxyz**
 
-```
-               abcdefghijklmnopqrstuvwxyz 
-```
 ****abcdefghijklmnopqrstuvwxyz****
 ---
 #### abcdefghijklmnopqrstuvwxyz
 ---
 
-![Example Image](https://via.placeholder.com/150)
+Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $.
+
+Here’s a block example:
+
+$$
+E = mc^2
+$$
+
+![Example Image](https://via.placeholder.com/150)  
 [Learn More](https://example.com)
+
 
 # GitHub README.md Markdown Nesting Inputs 
 
