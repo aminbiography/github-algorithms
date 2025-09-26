@@ -36,7 +36,7 @@ Here’s a block example:
 ROI is calculated as:
 
 $$
-ROI = \frac{(Sales - Cost)}{Cost}
+ROI = \frac{(On\text{-}premise\ Costs - Cloud\ Costs)}{Cloud\ Costs}
 $$
 
 ![Example Image](https://via.placeholder.com/150)  
@@ -75,7 +75,7 @@ Here’s a block example:
 ROI is calculated as:
 
 $$
-ROI = \frac{(Sales - Cost)}{Cost}
+ROI = \frac{(On\text{-}premise\ Costs - Cloud\ Costs)}{Cloud\ Costs}
 $$
 
 ![Example Image](https://via.placeholder.com/150)  
