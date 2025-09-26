@@ -31,7 +31,7 @@
 Here’s an inline example:  
 Cloud security efficiency is calculated as 
 
-$ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
+$$ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $$.
 
 Here’s a block example:  
 
