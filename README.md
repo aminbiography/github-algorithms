@@ -24,7 +24,7 @@
 #### abcdefghijklmnopqrstuvwxyz
 ---
 
-Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $.
+Here’s an inline example: Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
 
 Here’s a block example:
 
@@ -61,7 +61,7 @@ $$
 #### abcdefghijklmnopqrstuvwxyz
 ---
 
-Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $.
+Here’s an inline example: Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
 
 Here’s a block example:
 ROI is calculated as:
