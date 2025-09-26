@@ -28,8 +28,9 @@ Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $
 
 Here’s a block example:
 
+ROI is calculated as:
 $$
-E = mc^2
+ROI = \frac{(Sales - Cost)}{Cost}
 $$
 
 ![Example Image](https://via.placeholder.com/150)  
@@ -62,9 +63,9 @@ $$
 Here’s an inline example: ROI is calculated as $ \frac{(Sales - Cost)}{Cost} $.
 
 Here’s a block example:
-
+ROI is calculated as:
 $$
-E = mc^2
+ROI = \frac{(Sales - Cost)}{Cost}
 $$
 
 ![Example Image](https://via.placeholder.com/150)  
