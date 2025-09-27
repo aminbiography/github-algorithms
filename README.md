@@ -34,8 +34,7 @@ Cloud security efficiency is calculated as:
 
 Got it. Let me rewrite your two formulas cleanly:
 
-### Inline Example (already good)
-
+### Inline Example:
 Cloud security efficiency is calculated as:
 
 $$
