@@ -30,10 +30,19 @@
 
 Here’s an inline example:  
 Cloud security efficiency is calculated as: 
-&$ 
-\frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} 
-&$.
 
+
+Got it. Let me rewrite your two formulas cleanly:
+
+### Inline Example (already good)
+
+Cloud security efficiency is calculated as:
+
+[
+\text{Cloud Security Efficiency} = \frac{\text{Risk Exposure Before} - \text{Risk Exposure After}}{\text{Security Investment}}
+]
+
+---
 Here’s a block example:  
 
 ROI is calculated as:
@@ -44,7 +53,6 @@ $$
 
 ![Example Image](https://via.placeholder.com/150)  
 [Learn More](https://example.com)
-
 
 ```
 # abcdefghijklmnopqrstuvwxyz
