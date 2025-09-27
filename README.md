@@ -59,6 +59,8 @@ $$
 
 [Learn More](https://example.com)
 
+---
+
 ```
 # abcdefghijklmnopqrstuvwxyz
 
@@ -74,18 +76,31 @@ $$
     - abcdefghijklmnopqrstuvwxyz
   - Improving security monitoring
 
-**abcdefghijklmnopqrstuvwxyz**
-
-**abcdefghijklmnopqrstuvwxyz**
-
 ---
 
+Font Ex: 01.
+**abcdefghijklmnopqrstuvwxyz**
+
+Font Ex: 02.
+**abcdefghijklmnopqrstuvwxyz**
+
+Font Ex: 03.
 #### abcdefghijklmnopqrstuvwxyz
 
 ---
 
 Here’s an inline example:  
-Cloud security efficiency is calculated as $ \frac{(Risk\ Exposure\ Before - Risk\ Exposure\ After)}{Security\ Investment} $.
+Cloud security efficiency is calculated as: 
+
+
+Got it. Let me rewrite your two formulas cleanly:
+
+### Inline Example:
+Cloud security efficiency is calculated as:
+
+$$
+\text{Cloud Security Efficiency} = \frac{\text{Risk Exposure Before} - \text{Risk Exposure After}}{\text{Security Investment}}
+$$
 
 Here’s a block example:  
 
@@ -95,7 +110,11 @@ $$
 ROI = \frac{(On\text{-}premise\ Costs - Cloud\ Costs)}{Cloud\ Costs}
 $$
 
-![Example Image](https://via.placeholder.com/150)  
+---
+
+![Example Image](https://placehold.co/120x80) 
+
+
 [Learn More](https://example.com)
 
 ```
