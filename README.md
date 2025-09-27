@@ -50,7 +50,7 @@ $$
 ROI = \frac{(On\text{-}premise\ Costs - Cloud\ Costs)}{Cloud\ Costs}
 $$
 
-![Example Image](https://via.placeholder.com/150)  
+![Example Image](https://placehold.co/600x400)  
 [Learn More](https://example.com)
 
 ```
