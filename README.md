@@ -269,3 +269,18 @@ git update-index --no-assume-unchanged <file>           # Stops assuming a file 
 git submodule add <repository_url> <path>               # Adds a new submodule to the repository.
 ```
 
+---
+
+## Author
+
+**Developed by [Mohammad Aminul Islam (Amein)](https://github.com/aminbiography)**
+*Web Developer | Cyber Threat Intelligence Associate*
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+You are free to use, modify, and share it — attribution is appreciated.
+
+---
